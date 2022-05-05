@@ -1,18 +1,18 @@
-# 💚💚 Trybe-Project-03-Pixels-Art 💚💚
+# 💚💚 Trybe-Project-05-Color-Guess 💚💚
 
-Project responsible for presenting my skills with HTML, CSS and JavaScript 
+Project responsible for presenting my skills with HTML, CSS, JavaScript, Bootstrap and Responsive.
 
 # Access the project:
-### https://mateushoffman.github.io/Trybe-Project-03-Pixels-Art
+### https://mateushoffman.github.io/Trybe-Project-05-Color-Guess/
 
 # NOTA - 100%
 
 <div align="center" margin="50px">
-	<img src="img/nota-project-03-(1366x1500).png"/>
+	<img src="img/nota.png"/>
 </div>
 
 # Preview:
 
 <div align="center" margin="50px">
-	<img src="img/project-03.png"/>
+	<img src="img/preview.png"/>
 </div>

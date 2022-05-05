@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.div-title {
+  background-color: rgba(255, 255, 255, 0.86);
+  width: 60vw;
+  height: 15vh;
+  margin: 20px 0;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-section {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.86);
+  width: 60vw;
+  height: 70vh;
+  margin: 20px 0;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.8);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#div-balls {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.ball {
+  border: 2px solid black;
+  width: 4rem;
+  height: 4rem;
+  margin: 1.5vw;
+  border-radius: 50%;
+}
+
+.fs-3 {
+  margin: 2vh;
+}
+
+.btns-dificuldade-resetar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.btns-dificuldade-resetar button {
+  margin: 5px;
+  font-size: 22px;
+}
+
+h3 {
+  margin: 3vh 0;
+}
+
+.score {
+  margin-bottom: 3vh;
+}
+
+#answer {
+  margin-top: 3vh;
+}
+
+@media screen and (max-width: 768px) {
+  .main-section {
+    width: 80vw;
+  }
+
+  .div-title {
+    width: 80vw;
+  }
+}
